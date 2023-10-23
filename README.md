@@ -16,7 +16,7 @@
 
 
 > ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228328212-52e66179-e80d-4416-906d-64e401ce7052.svg"> Table of Contents
-- [Background Information](#background-information)
+- [Comprehending The Setting](#background-information)
 - [Understanding The Context](#understanding-the-context)
 - [Project Deliverable](#project-deliverable)
 - [Recording the Experimental Design](#recording-the-experimental-design)
