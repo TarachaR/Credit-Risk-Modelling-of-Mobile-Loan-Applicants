@@ -9,7 +9,7 @@
 <!-- > <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228318759-abcf91d4-5ddd-4230-aed8-4c8d7f63f8d2.svg"> **Web Application:** <a href="https://cancer-deathrate-regression-analysis.onrender.com" target="_blank">Click Me!</a> -->
 
 <!-- <img align="right"  width="450" height="350" src="https://user-images.githubusercontent.com/67068918/107158150-3977d700-6999-11eb-9603-63f72f2741a9.png"> -->
-<img align="right" width="600" height="338" src="https://user-images.githubusercontent.com/67068918/228472429-c1626ff6-98a6-43bd-b713-d1dcc75fc6e3.gif">
+<img align="right" width="600" height="338" src="https://github.com/TarachaR/Credit-Risk-of-Mobile-Loan-Applicants/assets/67068918/03370bb3-9d5d-41eb-ac6b-f099b8ea09a2">
 
 ---
 </br>
@@ -117,3 +117,5 @@ The following steps were followed during the implementation of the project:
 ---
 
 <h3 align="center">Made with ❤️ by Richard Taracha</h3>
+
+
