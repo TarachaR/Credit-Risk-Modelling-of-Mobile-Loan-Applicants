@@ -11,7 +11,7 @@
 <!-- <img align="right"  width="450" height="350" src="https://user-images.githubusercontent.com/67068918/107158150-3977d700-6999-11eb-9603-63f72f2741a9.png"> -->
 
 
-<img align="right" width="800" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/1964db66-94b3-4197-ad68-4870fa86cae3">
+<img align="right" width="700" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/1964db66-94b3-4197-ad68-4870fa86cae3">
 
 ---
 </br>
