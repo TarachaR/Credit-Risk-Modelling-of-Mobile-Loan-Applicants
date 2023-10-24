@@ -19,8 +19,8 @@
 
 > ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228328212-52e66179-e80d-4416-906d-64e401ce7052.svg"> Table of Contents
 - [Comprehending The Setting](#background-information)
-- [Understanding The Context](#understanding-the-context)
-- [Project Deliverable](#project-deliverable)
+- [Business Case](#understanding-the-context)
+- [Project Structure & Deliverables](#project-deliverable)
 - [Recording the Experimental Design](#recording-the-experimental-design)
 
 </br>
@@ -43,16 +43,17 @@
 ***Safaricom's foray into the financial services sector has been nothing short of remarkable. Through M-PESA, the company has not only provided Kenyans with a convenient and secure means of conducting financial transactions but has also played a major role in promoting financial inclusion in the country. As Safaricom continues to innovate and expand its financial services offerings, it is poised to play an even greater role in shaping the future of finance in Kenya.***
 </br>
 
-Source: https://www.businessdailyafrica.com/bd/economy/half-mobile-phone-borrowers-default-3654550
-
 ---
+
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228329440-1b010e60-3ec5-4d81-b545-ef3991a6eb95.svg"> Business Case
+
+As a Data Scientist working for the institution you have been tasked to identify factors that contribute to loan default. The findings of your analysis will be used to inform the creation of a credit scoring model that will be used to determine the creditworthiness of Okoa Jahazi loan applicants. The model will be used to predict whether or not an applicant will default on their loan based on their credit history and other relevant factors. This will help the institution make better lending decisions and reduce the number of loan defaults.
 
 > ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228328828-3d2fa345-dc76-44c6-a604-5a05aeea636b.svg"> Data Pertinence and Attribution
 In December 2021, a household survey conducted by Central Bank of Kenya (CBK), FSD Kenya and the Kenya National Bureau of Statistics (KNBS) revealed that 50.9% of mobile loan borrowers had defaulted on their loans. The survey also found that 12.5% of mobile loan borrowers had defaulted on their loans more than once. This is a worrying trend that needs to be addressed if Kenya is to achieve its goal of becoming a middle-income country by 2030.
 
-> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228329440-1b010e60-3ec5-4d81-b545-ef3991a6eb95.svg"> Understanding The Context
+Source: https://www.businessdailyafrica.com/bd/economy/half-mobile-phone-borrowers-default-3654550
 
-As a Data Scientist working for the institution you have been tasked to identify factors that contribute to loan default. The findings of your analysis will be used to inform the creation of a credit scoring model that will be used to determine the creditworthiness of Okoa Jahazi loan applicants. The model will be used to predict whether or not an applicant will default on their loan based on their credit history and other relevant factors. This will help the institution make better lending decisions and reduce the number of loan defaults.
 
 > ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228329440-1b010e60-3ec5-4d81-b545-ef3991a6eb95.svg"> Formulating the Benchmark of Success
 
@@ -68,7 +69,53 @@ As a Data Scientist working for the institution you have been tasked to identify
 
 ---
 
-> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228330000-aab764a7-0178-4536-b3f9-50fa169afe63.svg"> Project Deliverable
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228330000-aab764a7-0178-4536-b3f9-50fa169afe63.svg"> Project Structure & Deliverables
+    ├── LICENSE
+    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── data
+    │   ├── external       <- Data from third party sources.
+    │   ├── interim        <- Intermediate data that has been transformed.
+    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   └── raw            <- The original, immutable data dump.
+    │
+    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    │
+    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    │
+    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    │                         the creator's initials, and a short `-` delimited description, e.g.
+    │                         `1.0-jqp-initial-data-exploration`.
+    │
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    │
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    │   └── figures        <- Generated graphics and figures to be used in reporting
+    │
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+    │                         generated with `pip freeze > requirements.txt`
+    │
+    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
+    ├── src                <- Source code for use in this project.
+    │   ├── __init__.py    <- Makes src a Python module
+    │   │
+    │   ├── data           <- Scripts to download or generate data
+    │   │   └── make_dataset.py
+    │   │
+    │   ├── features       <- Scripts to turn raw data into features for modeling
+    │   │   └── build_features.py
+    │   │
+    │   ├── models         <- Scripts to train models and then use trained models to make
+    │   │   │                 predictions
+    │   │   ├── predict_model.py
+    │   │   └── train_model.py
+    │   │
+    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
+    │       └── visualize.py
+    │
+    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+
+
 There are three deliverables for this project:
 - A **GitHub repository**
 - A **Jupyter Notebook**
@@ -77,7 +124,7 @@ There are three deliverables for this project:
 </br>
 
 
-<h4 align="center">Dataset Attributes:</h4>
+<h4 align="left">Dataset Attributes:</h4>
 
 | CUST_TXN_DATE | Customer Transaction Date |
 |-|-| 
