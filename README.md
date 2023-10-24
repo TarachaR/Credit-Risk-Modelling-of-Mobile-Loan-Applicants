@@ -20,6 +20,8 @@
 > ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228328212-52e66179-e80d-4416-906d-64e401ce7052.svg"> Table of Contents
 - [Comprehending The Setting](#background-information)
 - [Business Case](#understanding-the-context)
+- [Data Pertinence and Attribution](#understanding-the-context)
+- [Formulating the Benchmark of Success](#understanding-the-context)
 - [Project Structure & Deliverables](#project-deliverable)
 - [Recording the Experimental Design](#recording-the-experimental-design)
 
