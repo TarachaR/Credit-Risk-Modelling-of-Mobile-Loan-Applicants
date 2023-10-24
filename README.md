@@ -11,7 +11,7 @@
 <!-- <img align="right"  width="450" height="350" src="https://user-images.githubusercontent.com/67068918/107158150-3977d700-6999-11eb-9603-63f72f2741a9.png"> -->
 
 
-<img align="right" width="600" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/4b17edd1-45d5-4f03-b90f-47572e1842b1">
+<img align="right" width="800" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/1964db66-94b3-4197-ad68-4870fa86cae3">
 
 ---
 </br>
@@ -120,5 +120,5 @@ The following steps were followed during the implementation of the project:
 
 <h3 align="center">Made with ❤️ by Richard Taracha</h3>
 
-![okoa](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/4b17edd1-45d5-4f03-b90f-47572e1842b1)
+![mshwari](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/1964db66-94b3-4197-ad68-4870fa86cae3)
 
