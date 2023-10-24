@@ -160,7 +160,7 @@ The following steps were followed during the implementation of the project:
 | 10 | Recommendations / Conclusions |
 | 11 | Challenge solution. |
 
-### Data Prepration & Modeling (from point 5 to 9)
+### Data Prepration & Modeling (from point 5 to 8)
 All details are in the notebook in the following directory ```end-to-end-data-science-project/notebooks```
 
 <p align="right"><a href="#top">Back to top</a></p>
