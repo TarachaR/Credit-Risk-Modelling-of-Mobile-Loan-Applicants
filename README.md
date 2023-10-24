@@ -49,11 +49,14 @@
 
 As a Data Scientist working for the institution you have been tasked to identify factors that contribute to loan default. The findings of your analysis will be used to inform the creation of a credit scoring model that will be used to determine the creditworthiness of Okoa Jahazi loan applicants. The model will be used to predict whether or not an applicant will default on their loan based on their credit history and other relevant factors. This will help the institution make better lending decisions and reduce the number of loan defaults.
 
+</br>
+
 > ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228328828-3d2fa345-dc76-44c6-a604-5a05aeea636b.svg"> Data Pertinence and Attribution
 In December 2021, a household survey conducted by Central Bank of Kenya (CBK), FSD Kenya and the Kenya National Bureau of Statistics (KNBS) revealed that 50.9% of mobile loan borrowers had defaulted on their loans. The survey also found that 12.5% of mobile loan borrowers had defaulted on their loans more than once. This is a worrying trend that needs to be addressed if Kenya is to achieve its goal of becoming a middle-income country by 2030.
 
 Source: https://www.businessdailyafrica.com/bd/economy/half-mobile-phone-borrowers-default-3654550
 
+</br>
 
 > ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228329440-1b010e60-3ec5-4d81-b545-ef3991a6eb95.svg"> Formulating the Benchmark of Success
 
@@ -121,8 +124,6 @@ There are three deliverables for this project:
 - A **Jupyter Notebook**
 - A **non-technical presentation**
 </br>
-</br>
-
 
 <h4 align="left">Dataset Attributes:</h4>
 
@@ -159,7 +160,8 @@ The following steps were followed during the implementation of the project:
 | 10 | Recommendations / Conclusions |
 | 11 | Challenge solution. |
 
-
+### Data Prepration & Modeling (from point 5 to 9)
+All details are in the notebook in the following directory ```end-to-end-data-science-project/notebooks```
 
 <p align="right"><a href="#top">Back to top</a></p>
 
