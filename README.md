@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Cancer Prevention-Regression Analysis (The African Cancer Institute)
+# Credit-Risk-Modelling-of-Mobile-Loan-Applicants (CBA & Safaricom)
 ---
 
 > <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228323145-dc1343c4-a9e5-4e15-ae91-8af1bc9898b8.svg"> **Author:** Richard Taracha 
