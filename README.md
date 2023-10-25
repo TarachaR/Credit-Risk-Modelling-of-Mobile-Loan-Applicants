@@ -2,9 +2,9 @@
 # Credit-Risk-Modelling-of-Mobile-Loan-Applicants (CBA & Safaricom)
 ---
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228323145-dc1343c4-a9e5-4e15-ae91-8af1bc9898b8.svg"> **Author:** Richard Taracha 
+>  **Author:** Richard Taracha 
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228325498-2a141e3e-3e77-48b0-96ae-cbfffa4ef2b3.svg"> **Date:** 23/10/2023
+>  **Date:** 23/10/2023
 
 <!-- > <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228318759-abcf91d4-5ddd-4230-aed8-4c8d7f63f8d2.svg"> **Web Application:** <a href="https://cancer-deathrate-regression-analysis.onrender.com" target="_blank">Click Me!</a> -->
 
@@ -17,7 +17,7 @@
 </br>
 
 
-> ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/228328212-52e66179-e80d-4416-906d-64e401ce7052.svg"> Table of Contents
+> ###  Table of Contents
 1. [Comprehending The Setting](#background-information)
 2. [Business Case](#understanding-the-context)
 3. [Data Pertinence and Attribution](#understanding-the-context)
