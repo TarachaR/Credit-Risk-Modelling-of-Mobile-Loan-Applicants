@@ -13,8 +13,7 @@
 
 <!-- <img align="right" width="600" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/4b17edd1-45d5-4f03-b90f-47572e1842b1"> -->
 
-
-![End-to-End Loan Default Prediction 1](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/82d54a40-2f6b-4b36-9a29-515f361ae042
+![End-to-End Loan Default Prediction 1](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/82d54a40-2f6b-4b36-9a29-515f361ae042)
 
 ---
 </br>
@@ -176,4 +175,4 @@ All details are in the notebook in the following directory ```end-to-end-data-sc
 
 
 
-![End-to-End Loan Default Prediction 1](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/82d54a40-2f6b-4b36-9a29-515f361ae042)
+
