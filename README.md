@@ -13,19 +13,20 @@
 
 <!-- <img align="right" width="600" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/4b17edd1-45d5-4f03-b90f-47572e1842b1"> -->
 
-![End-to-End Loan Default Prediction 1](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/82d54a40-2f6b-4b36-9a29-515f361ae042)
+![End-to-End Loan Default Prediction 1](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/a5266945-8e8d-4800-af6b-95d0dd3b66b4)
 
 ---
 </br>
 
 
 > ###  Table of Contents
-1. [Comprehending The Setting](#background-information)
+1. [Comprehending The Setting](#background-information) 
 2. [Business Case](#understanding-the-context)
 3. [Data Pertinence and Attribution](#understanding-the-context)
 4. [Formulating the Benchmark of Success](#understanding-the-context)
 5. [Project Structure & Deliverables](#project-deliverable)
-6. [Recording the Experimental Design](#recording-the-experimental-design)
+6. [Recording the Experimental Design](#recording-the-experimental-design)  
+
 
 </br>
 
@@ -172,7 +173,6 @@ All details are in the notebook in the following directory ```end-to-end-data-sc
 ---
 
 <h3 align="center">Made with ❤️ by Richard Taracha</h3>
-
 
 
 
