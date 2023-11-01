@@ -14,6 +14,7 @@
 <!-- <img align="right" width="600" height="338" src="https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/4b17edd1-45d5-4f03-b90f-47572e1842b1"> -->
 
 ![End-to-End Loan Default Prediction 1](https://github.com/TarachaR/Credit-Risk-Modelling-of-Mobile-Loan-Applicants-CBA-Safaricom-/assets/67068918/700ab3f9-b06a-4cb4-9dd4-0037311a9c85)
+<p align="right"><i><small>Image by: Richard Taracha</small></i></p>
 
 ---
 </br>
